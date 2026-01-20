@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Wellinton and I'm a Software engineer, from Brasil</h2>
+<h2 align="left">Hi 👋! My name is Wellinton and I'm a Software engineer, from Brazil</h2>
 
 ###
 
